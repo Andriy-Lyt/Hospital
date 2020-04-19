@@ -3,7 +3,7 @@ Andriy Lytvynchuk (n01393936)
 
 Hello Christine,
 
-at this time I have integrated my part into a branch of the Team project here (didn't want to change a lot in the Master on the last day):
+I have integrated my part into a branch of the Team project here (didn't want to change a lot in the Master at this time):
 https://github.com/HarpreetGill15/HospitalProjectTeam2/tree/PublicationsReports
 
 I have hard-coded Admin record in DB to access admin interface by doing the following:
