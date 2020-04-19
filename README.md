@@ -28,4 +28,4 @@ My files in the Team project (https://github.com/HarpreetGill15/HospitalProjectT
     Models-ViewModels: PublicationPageViewModel.cs, PublicationViewModel,  PublicationShortViewModel;
     Views - Publications folder (Creat-, Edit-, Index.cshtml);
   
-  3. Litle bit of Css at the bottom of content - Site.css file.
+  3. Some Css at the bottom of Content - Site.css file.
